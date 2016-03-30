@@ -20,4 +20,3 @@ If you have any questions, comments or suggestions for improvements,<br>
 please visit the Madsonic Forum (http://forum.madsonic.org).
 
 More information, including installation instructions, is found at <http://www.madsonic.org/>
-
