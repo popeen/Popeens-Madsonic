@@ -86,9 +86,9 @@
     </pluginRepositories>
 
     <scm>
-        <url>http://git.madsonic.org/madsonic/madsonic</url>
-        <connection>scm:git:http://git.madsonic.org/madsonic/madsonic.git</connection>
-        <developerConnection>scm:git:http://git.madsonic.org/madsonic/madsonic.git</developerConnection>
+        <url>https://gitlab.com/madsonic/madsonic</url>
+        <connection>scm:git:https://gitlab.com/madsonic/madsonic.git</connection>
+        <developerConnection>scm:git:https://gitlab.com/madsonic/madsonic.git</developerConnection>
     </scm>
     
     <developers>
