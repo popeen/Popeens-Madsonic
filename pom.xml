@@ -16,7 +16,7 @@
     <properties>
     
         <!-- MADSONIC -->
-        <version.build>8250</version.build>
+        <version.build>8260</version.build>
             
         <!-- MAIN -->
         <failOnDependencyWarning>false</failOnDependencyWarning>
