@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-
+    
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.madsonic</groupId>
     <artifactId>madsonic</artifactId>
@@ -16,7 +16,7 @@
     <properties>
     
         <!-- MADSONIC -->
-        <version.build>8280</version.build>
+        <version.build>8700</version.build>
             
         <!-- MAIN -->
         <failOnDependencyWarning>false</failOnDependencyWarning>
@@ -33,7 +33,8 @@
         <version.maven-surefire-plugin>2.19.1</version.maven-surefire-plugin>
         <version.maven-assembly-plugin>2.6</version.maven-assembly-plugin>
         <version.maven-dependency-plugin>2.10</version.maven-dependency-plugin>
-        <version.cxf-codegen-plugin>2.4.2</version.cxf-codegen-plugin>
+        
+        <version.cxf-codegen-plugin>2.4.10</version.cxf-codegen-plugin>
         <version.maven-jaxb2-plugin>0.8.3</version.maven-jaxb2-plugin>
         
     </properties>
@@ -163,6 +164,14 @@
         </modules>
     </profile>
 
+    <profile>
+        <id>core</id>
+        <modules>
+            <module>madsonic-core</module>
+            <module>madsonic-core-booter</module>
+        </modules>
+    </profile>
+    
     <profile>
         <id>backend</id>
         <modules>
