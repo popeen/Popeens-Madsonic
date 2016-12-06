@@ -49,19 +49,19 @@
             <name>Local Repository 1</name>
             <url>file:../.repository</url>
         </repository>
-        
+
         <repository>
             <id>local2</id>
             <name>Local Repository 2</name>
             <url>file:../madsonic-repo</url>
         </repository>        
-        
+
         <repository>
             <id>java_net</id>
             <name>download.java.net</name>
             <url>http://download.java.net/maven/2/</url>
         </repository>
-        
+
         <repository>
             <id>teleal</id>
             <name>teleal</name>
