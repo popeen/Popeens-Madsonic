@@ -107,6 +107,7 @@
         <module>subsonic-rest-api</module>
         <module>madsonic-sonos-api</module>
         <module>madsonic-lastfm-api</module>
+        <module>madsonic-main</module>
     </modules>
     
     <profiles>
