@@ -1,0 +1,21 @@
+[submodule "subsonic-rest-api"]
+	path = subsonic-rest-api
+	url = https://github.com/Booksonic-Server/subsonic-rest-api
+[submodule "madsonic-sonos-api"]
+	path = madsonic-sonos-api
+	url = https://github.com/Booksonic-Server/madsonic-sonos-api
+[submodule "madsonic-rest-api"]
+	path = madsonic-rest-api
+	url = https://github.com/Booksonic-Server/madsonic-rest-api
+[submodule "madsonic-lastfm-api"]
+	path = madsonic-lastfm-api
+	url = https://github.com/Booksonic-Server/madsonic-lastfm-api
+[submodule "madsonic-main"]
+	path = madsonic-main
+	url = https://github.com/Booksonic-Server/madsonic-main
+[submodule "madsonic-genre"]
+	path = madsonic-genre
+	url = https://github.com/Booksonic-Server/madsonic-genre
+[submodule "madsonic-booter"]
+	path = madsonic-booter
+	url = https://github.com/Booksonic-Server/madsonic-booter
