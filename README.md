@@ -1,22 +1,17 @@
-Madsonic
-========
+Booksonic Server
+===================
 
-### About
+Booksonic aka Popeens Madsonic is a fork of the music streaming server Madsonic but with a twist.
+While Subsonic and as far as I know all the other forks out there (including Madsonic) are focused on music, Booksonic, as the name suggests is focused on audiobooks.
 
-Madsonic is a free, web-based media streamer and jukebox server.
+So how do I use it to get book descriptions in the app?
+Thats simple, in the folder of you book (or album if we use subsonic terms) you place a textfile called desc.txt. Anything you enter into this file will be reported by the api as a description of the book. 
 
-### Compatibility
+And how about narrators?
+It works just as with descriptions but the file is called reader.txt
 
-Based on Java technology, Madsonic runs on most platforms, including Windows, Mac, Linux, OSX, and Unix variants.<br>
-Madsonic is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License.<br>
+Booksonic Android app: https://github.com/popeen/Popeens-DSub/
 
-More information, including installation instructions, is found at <http://www.madsonic.org>
+Madsonic: https://gitlab.com/madsonic
 
-### Contact
-
-Madsonic is developed and maintained by Martin Karel (support@madsonic.org).
-
-If you have any questions, comments or suggestions for improvements,<br>
-please visit the Madsonic Forum (http://forum.madsonic.org).
-
-More information, including installation instructions, is found at <http://www.madsonic.org/>
+DSub: https://github.com/daneren2005/Subsonic
