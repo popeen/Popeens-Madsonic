@@ -19,3 +19,9 @@
 [submodule "madsonic-booter"]
 	path = madsonic-booter
 	url = https://github.com/Booksonic-Server/madsonic-booter
+[submodule "madsonic-transcode-x86"]
+	path = madsonic-transcode-x86
+	url = https://github.com/Booksonic-Server/madsonic-transcode-x86
+[submodule "madsonic-transcode-64"]
+	path = madsonic-transcode-64
+	url = https://github.com/Booksonic-Server/madsonic-transcode-x64
